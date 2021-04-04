@@ -1,6 +1,6 @@
-﻿/* qsorter.c -- 用 qsort() 排序一个内含随机值的数组 */
-#include <cstdlib>
-#include <cstdio>
+﻿/* qsort.c -- 用 qsort() 排序一个内含随机值的数组 */
+#include <stdlib.h>
+#include <stdio.h>
 //#pragma warning(disable:4996)
 
 #define NUM 40
